@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
- SundbeckViewTool::Renderer.copyright 'Kevin Sundbeck','All rights reserved'
+SundbeckViewTool::Renderer.copyright 'Kevin Sundbeck','All rights reserved'
 ```
 
 ## Development
