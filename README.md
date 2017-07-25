@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+ SundbeckViewTool::Renderer.copyright 'Kevin Sundbeck','All rights reserved'
+```
 
 ## Development
 
